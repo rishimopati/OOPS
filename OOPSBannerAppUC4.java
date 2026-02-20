@@ -2,7 +2,7 @@ public class OOPSBannerAppUC4 {
 
     public static void main(String[] args) {
 
-        // Each row stored as an array (O, O, P, S)
+        
         String[][] banner = {
 
             {"   ***   ", "   ***   ", " ****** ", " ***** "},
